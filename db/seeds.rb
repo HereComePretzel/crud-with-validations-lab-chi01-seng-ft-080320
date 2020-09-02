@@ -1,0 +1,5 @@
+Song.new(title: "Song 1", released: true, release_year: 1997, artist_name: "Billy Ocean", genre: "Rock")
+Song.new(title: "Song 2", released: true, release_year: 1998, artist_name: "The Clash", genre: "Rap")
+Song.new(title: "Song 3", released: true, release_year: 1999, artist_name: "The Cure", genre: "HipHop")
+Song.new(title: "Song 4", released: true, release_year: 2000, artist_name: "The Kinks", genre: "Jazz")
+Song.new(title: "Song 5", released: true, release_year: 2001, artist_name: "The Strokes", genre: "Funk")
